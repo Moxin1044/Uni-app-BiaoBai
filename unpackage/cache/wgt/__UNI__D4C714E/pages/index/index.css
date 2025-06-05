@@ -1,0 +1,1 @@
+.container{width:100vw;height:100vh;position:relative;background-color:#000;overflow:hidden;transition:background-color 2s ease-in-out}.canvas{width:100vw;height:100vh;position:absolute;top:0;left:0}.text{position:absolute;top:50%;width:100%;text-align:center;font-size:1.125rem;color:#fff;z-index:10;font-weight:700;letter-spacing:.0625rem;transform:translateY(-50%)}
